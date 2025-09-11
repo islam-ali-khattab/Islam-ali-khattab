@@ -6,13 +6,13 @@ Passionate about **data visualization, statistical analysis, and building dashbo
 Experienced in cleaning, analyzing, and modeling data to uncover trends and support business strategies.  
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/islam-ali-959893143/">
+  <a href="https://www.linkedin.com/in/islam-ali-khattab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:islam.ali.khattab@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/islam_aliii">
+  <a href="https://twitter.com/islamalikhattab">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
