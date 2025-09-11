@@ -19,12 +19,6 @@ Experienced in cleaning, analyzing, and modeling data to uncover trends and supp
 
 ---
 
-### 🧰 Languages and Tools  
-
-[![My Skills](https://skillicons.dev/icons?i=python,excel,mysql,powerbi)](https://skillicons.dev)
-
----
-
 ### 📊 GitHub Stats  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IslamAlii&theme=dark&background=000000)](https://git.io/streak-stats)  
