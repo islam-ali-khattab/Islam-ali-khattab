@@ -10,10 +10,10 @@ Experienced in cleaning, analyzing, and modeling data to uncover trends and supp
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:islam.ali.khattab@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/islam_aliii">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 
@@ -21,7 +21,7 @@ Experienced in cleaning, analyzing, and modeling data to uncover trends and supp
 
 ### 🧰 Languages and Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,postgresql,sqlite,excel,tableau,powerbi,pandas,numpy,sklearn,matplotlib,github,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,excel,mysql,powerbi)](https://skillicons.dev)
 
 ---
 
@@ -35,8 +35,8 @@ Experienced in cleaning, analyzing, and modeling data to uncover trends and supp
 
 ### 📈 What I Do  
 - 📊 Analyze datasets and extract insights for decision-making  
-- 📉 Build dashboards using **Tableau & Power BI**  
-- 🐍 Write clean data pipelines in **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**  
+- 📉 Build dashboards using **Power BI & Excel**  
+- 🐍 Work with data using **Python (Pandas, NumPy, Matplotlib, Seaborn)**  
 - 🗄️ Query and manage databases with **SQL**  
 - 📑 Present findings through reports and data storytelling  
 
