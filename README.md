@@ -21,9 +21,9 @@ Experienced in cleaning, analyzing, and modeling data to uncover trends and supp
 
 ### 📊 GitHub Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IslamAlii&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=islam-ali-khattab&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-ali-khattab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
